@@ -28,7 +28,7 @@ app.use(express.static(staticPath))   //index.html file autometic call
 //     },
 //     {
 //         name: "mohan"
-//   
+//   }
 //     ])
 // })
 
@@ -39,3 +39,6 @@ app.get('/weather', (req, res) => {
 app.listen(3000, () => {              //a server start kare 6
     console.log("server  is start on port 3000.");
 })
+
+
+//ygbuybhbb
