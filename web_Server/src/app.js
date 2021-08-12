@@ -28,7 +28,7 @@ app.use(express.static(staticPath))   //index.html file autometic call
 //     },
 //     {
 //         name: "mohan"
-//     }
+//   
 //     ])
 // })
 
