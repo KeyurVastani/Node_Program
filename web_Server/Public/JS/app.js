@@ -1,0 +1,1 @@
+console.log("client side Java script is loaded");
